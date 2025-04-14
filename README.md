@@ -1,6 +1,6 @@
 *************************************************
 LLM Peers Data -- Overview
-The LLM identified peers data is based on the firm pairwise peers identified by Cao, Chen, Tucker and Chi (2025). This uploaded dataset is based on the data processed using Gemini-2.0 flash model,
+The LLM identified peers data is based on the firm pairwise peers identified by Cao, Chen, Tucker and Wan (2025). This uploaded dataset is based on the data processed using Gemini-2.0 flash model,
 for sample period of Compustat firms from 1981 to 2023. Please refer to Cao et al. (2025) for an extensive discussion of the measure, and details of the process to generate the pairwise peer data. In this 
 
 ****** NOTE: Please read the technical descriptions below before using the data.  
